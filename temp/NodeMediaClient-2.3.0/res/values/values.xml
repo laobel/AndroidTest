@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="rtsp_transport">
+        <item>UDP</item>
+        <item>TCP</item>
+        <item>UDP_MULTICAST</item>
+        <item>HTTP</item>
+    </string-array>
+    <string name="app_name">NodeMedia</string>
+</resources>

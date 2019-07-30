@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RelativeLayoutDemo</string>
+    <string name="plum_name">梅花布局</string>
+    <string name="margin_padding">margin与padding比较</string>
+    <string name="margin">margin</string>
+    <string name="back">返回</string>
+    <string name="location">定位测试</string>
+
+    <string name="title_activity_location">LocationActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>

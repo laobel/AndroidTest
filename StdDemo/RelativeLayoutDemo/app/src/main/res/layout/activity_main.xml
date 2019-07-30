@@ -1,0 +1,31 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/Layout_Main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/Btn_Plum"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:onClick="click"
+        android:text="@string/plum_name" />
+
+    <Button
+        android:id="@+id/Btn_margin-padding"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:onClick="click"
+        android:text="@string/margin_padding" />
+
+    <Button
+        android:id="@+id/Btn_margin"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:onClick="click"
+        android:text="@string/margin" />
+
+
+
+</LinearLayout>

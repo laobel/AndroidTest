@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "D:\\develop\\Android\\android_effects1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_pattern_light.xml.flat",
+        "source": "D:\\develop\\Android\\android_effects1\\app\\src\\main\\res\\drawable\\bg_pattern_light.xml"
+    },
+    {
+        "merged": "D:\\develop\\Android\\android_effects1\\app\\build\\intermediates\\res\\merged\\debug\\raw_fluffy_vs.txt.flat",
+        "source": "D:\\develop\\Android\\android_effects1\\app\\src\\main\\res\\raw\\fluffy_vs.txt"
+    },
+    {
+        "merged": "D:\\develop\\Android\\android_effects1\\app\\build\\intermediates\\res\\merged\\debug\\raw_fractal_vs.txt.flat",
+        "source": "D:\\develop\\Android\\android_effects1\\app\\src\\main\\res\\raw\\fractal_vs.txt"
+    },
+    {
+        "merged": "D:\\develop\\Android\\android_effects1\\app\\build\\intermediates\\res\\merged\\debug\\raw_particle_fs.txt.flat",
+        "source": "D:\\develop\\Android\\android_effects1\\app\\src\\main\\res\\raw\\particle_fs.txt"
+    },
+    {
+        "merged": "D:\\develop\\Android\\android_effects1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_pattern_dark.png.flat",
+        "source": "D:\\develop\\Android\\android_effects1\\app\\src\\main\\res\\drawable\\img_pattern_dark.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\android_effects1\\app\\build\\intermediates\\res\\merged\\debug\\raw_blob_fill_vs.txt.flat",
+        "source": "D:\\develop\\Android\\android_effects1\\app\\src\\main\\res\\raw\\blob_fill_vs.txt"
+    },
+    {
+        "merged": "D:\\develop\\Android\\android_effects1\\app\\build\\intermediates\\res\\merged\\debug\\raw_emitter_fs.txt.flat",
+        "source": "D:\\develop\\Android\\android_effects1\\app\\src\\main\\res\\raw\\emitter_fs.txt"
+    },
+    {
+        "merged": "D:\\develop\\Android\\android_effects1\\app\\build\\intermediates\\res\\merged\\debug\\raw_star_fs.txt.flat",
+        "source": "D:\\develop\\Android\\android_effects1\\app\\src\\main\\res\\raw\\star_fs.txt"
+    },
+    {
+        "merged": "D:\\develop\\Android\\android_effects1\\app\\build\\intermediates\\res\\merged\\debug\\raw_spline_vs.txt.flat",
+        "source": "D:\\develop\\Android\\android_effects1\\app\\src\\main\\res\\raw\\spline_vs.txt"
+    },
+    {
+        "merged": "D:\\develop\\Android\\android_effects1\\app\\build\\intermediates\\res\\merged\\debug\\raw_pentagon_fs.txt.flat",
+        "source": "D:\\develop\\Android\\android_effects1\\app\\src\\main\\res\\raw\\pentagon_fs.txt"
+    },
+    {
+        "merged": "D:\\develop\\Android\\android_effects1\\app\\build\\intermediates\\res\\merged\\debug\\raw_textures_fs.txt.flat",
+        "source": "D:\\develop\\Android\\android_effects1\\app\\src\\main\\res\\raw\\textures_fs.txt"
+    },
+    {
+        "merged": "D:\\develop\\Android\\android_effects1\\app\\build\\intermediates\\res\\merged\\debug\\raw_rubber_fs.txt.flat",
+        "source": "D:\\develop\\Android\\android_effects1\\app\\src\\main\\res\\raw\\rubber_fs.txt"
+    },
+    {
+        "merged": "D:\\develop\\Android\\android_effects1\\app\\build\\intermediates\\res\\merged\\debug\\raw_background_fs.txt.flat",
+        "source": "D:\\develop\\Android\\android_effects1\\app\\src\\main\\res\\raw\\background_fs.txt"
+    },
+    {
+        "merged": "D:\\develop\\Android\\android_effects1\\app\\build\\intermediates\\res\\merged\\debug\\raw_circle_vs.txt.flat",
+        "source": "D:\\develop\\Android\\android_effects1\\app\\src\\main\\res\\raw\\circle_vs.txt"
+    },
+    {
+        "merged": "D:\\develop\\Android\\android_effects1\\app\\build\\intermediates\\res\\merged\\debug\\raw_circle_fs.txt.flat",
+        "source": "D:\\develop\\Android\\android_effects1\\app\\src\\main\\res\\raw\\circle_fs.txt"
+    },
+    {
+        "merged": "D:\\develop\\Android\\android_effects1\\app\\build\\intermediates\\res\\merged\\debug\\raw_fluffy_fs.txt.flat",
+        "source": "D:\\develop\\Android\\android_effects1\\app\\src\\main\\res\\raw\\fluffy_fs.txt"
+    },
+    {
+        "merged": "D:\\develop\\Android\\android_effects1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_pattern_light.png.flat",
+        "source": "D:\\develop\\Android\\android_effects1\\app\\src\\main\\res\\drawable\\img_pattern_light.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\android_effects1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_pattern_dark.xml.flat",
+        "source": "D:\\develop\\Android\\android_effects1\\app\\src\\main\\res\\drawable\\bg_pattern_dark.xml"
+    },
+    {
+        "merged": "D:\\develop\\Android\\android_effects1\\app\\build\\intermediates\\res\\merged\\debug\\raw_particle_vs.txt.flat",
+        "source": "D:\\develop\\Android\\android_effects1\\app\\src\\main\\res\\raw\\particle_vs.txt"
+    },
+    {
+        "merged": "D:\\develop\\Android\\android_effects1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher.png.flat",
+        "source": "D:\\develop\\Android\\android_effects1\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\android_effects1\\app\\build\\intermediates\\res\\merged\\debug\\raw_blob_fill_fs.txt.flat",
+        "source": "D:\\develop\\Android\\android_effects1\\app\\src\\main\\res\\raw\\blob_fill_fs.txt"
+    },
+    {
+        "merged": "D:\\develop\\Android\\android_effects1\\app\\build\\intermediates\\res\\merged\\debug\\raw_pentagon_vs.txt.flat",
+        "source": "D:\\develop\\Android\\android_effects1\\app\\src\\main\\res\\raw\\pentagon_vs.txt"
+    },
+    {
+        "merged": "D:\\develop\\Android\\android_effects1\\app\\build\\intermediates\\res\\merged\\debug\\raw_emitter_vs.txt.flat",
+        "source": "D:\\develop\\Android\\android_effects1\\app\\src\\main\\res\\raw\\emitter_vs.txt"
+    },
+    {
+        "merged": "D:\\develop\\Android\\android_effects1\\app\\build\\intermediates\\res\\merged\\debug\\raw_fractal_fs.txt.flat",
+        "source": "D:\\develop\\Android\\android_effects1\\app\\src\\main\\res\\raw\\fractal_fs.txt"
+    },
+    {
+        "merged": "D:\\develop\\Android\\android_effects1\\app\\build\\intermediates\\res\\merged\\debug\\raw_star_vs.txt.flat",
+        "source": "D:\\develop\\Android\\android_effects1\\app\\src\\main\\res\\raw\\star_vs.txt"
+    },
+    {
+        "merged": "D:\\develop\\Android\\android_effects1\\app\\build\\intermediates\\res\\merged\\debug\\raw_background_vs.txt.flat",
+        "source": "D:\\develop\\Android\\android_effects1\\app\\src\\main\\res\\raw\\background_vs.txt"
+    },
+    {
+        "merged": "D:\\develop\\Android\\android_effects1\\app\\build\\intermediates\\res\\merged\\debug\\raw_rubber_vs.txt.flat",
+        "source": "D:\\develop\\Android\\android_effects1\\app\\src\\main\\res\\raw\\rubber_vs.txt"
+    },
+    {
+        "merged": "D:\\develop\\Android\\android_effects1\\app\\build\\intermediates\\res\\merged\\debug\\raw_blob_curve_vs.txt.flat",
+        "source": "D:\\develop\\Android\\android_effects1\\app\\src\\main\\res\\raw\\blob_curve_vs.txt"
+    },
+    {
+        "merged": "D:\\develop\\Android\\android_effects1\\app\\build\\intermediates\\res\\merged\\debug\\raw_spline_fs.txt.flat",
+        "source": "D:\\develop\\Android\\android_effects1\\app\\src\\main\\res\\raw\\spline_fs.txt"
+    },
+    {
+        "merged": "D:\\develop\\Android\\android_effects1\\app\\build\\intermediates\\res\\merged\\debug\\raw_blob_line_fs.txt.flat",
+        "source": "D:\\develop\\Android\\android_effects1\\app\\src\\main\\res\\raw\\blob_line_fs.txt"
+    },
+    {
+        "merged": "D:\\develop\\Android\\android_effects1\\app\\build\\intermediates\\res\\merged\\debug\\raw_textures_vs.txt.flat",
+        "source": "D:\\develop\\Android\\android_effects1\\app\\src\\main\\res\\raw\\textures_vs.txt"
+    },
+    {
+        "merged": "D:\\develop\\Android\\android_effects1\\app\\build\\intermediates\\res\\merged\\debug\\raw_blob_line_vs.txt.flat",
+        "source": "D:\\develop\\Android\\android_effects1\\app\\src\\main\\res\\raw\\blob_line_vs.txt"
+    },
+    {
+        "merged": "D:\\develop\\Android\\android_effects1\\app\\build\\intermediates\\res\\merged\\debug\\raw_blob_curve_fs.txt.flat",
+        "source": "D:\\develop\\Android\\android_effects1\\app\\src\\main\\res\\raw\\blob_curve_fs.txt"
+    }
+]

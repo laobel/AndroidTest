@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/snow"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:text="推流地址:"
+            android:textColor="#666666"
+            android:layout_marginTop="10dp"
+            android:textSize="16sp"
+            android:paddingLeft="10dp"
+            android:background="?android:attr/selectableItemBackground"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <EditText
+            android:id="@+id/pushURL"
+            android:layout_marginTop="30dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+    </RelativeLayout>
+
+   <RelativeLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content">
+       <TextView
+           android:text="直播地址:"
+           android:textColor="#666666"
+           android:layout_marginTop="10dp"
+           android:textSize="16sp"
+           android:paddingLeft="10dp"
+           android:background="?android:attr/selectableItemBackground"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content" />
+
+       <EditText
+           android:id="@+id/fetchURL"
+           android:layout_marginTop="30dp"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"/>
+
+       <LinearLayout
+           android:id="@+id/fetchCachePanal1"
+           android:layout_below="@+id/fetchURL"
+           android:paddingLeft="10dp"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:orientation="horizontal">
+
+           <TextView
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="直播启动缓冲(ms):"
+               android:textSize="18sp" />
+
+           <EditText
+               android:id="@+id/editText_bufferTime"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:layout_weight="1"
+               android:singleLine="true"
+               android:text="300" />
+       </LinearLayout>
+
+       <LinearLayout
+           android:id="@+id/fetchCachePanal2"
+           android:layout_below="@+id/fetchCachePanal1"
+           android:paddingLeft="10dp"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:orientation="horizontal">
+
+           <TextView
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="直播最大缓冲(ms):"
+               android:textSize="18sp" />
+
+           <EditText
+               android:id="@+id/editText_maxBufferTime"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:layout_weight="1"
+               android:singleLine="true"
+               android:text="1000" />
+       </LinearLayout>
+
+
+       <Button android:id="@+id/setoptions"
+           android:text="确定"
+           android:layout_below="@+id/fetchCachePanal2"
+           android:layout_alignParentRight="true"
+           android:layout_marginTop="10dp"
+           android:layout_marginRight="50dp"
+           android:layout_marginBottom="20dp"
+           android:layout_width="100dp"
+           android:layout_height="wrap_content"
+           android:background="@drawable/shape"/>
+   </RelativeLayout>
+
+
+
+</LinearLayout>
